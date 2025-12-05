@@ -1,0 +1,19 @@
+{
+  "name": "Portfolio- Page",
+  "version": "1.0.0",
+  "description": "Creating Portfolio Page for Project Code Phase 1 Front-End Development",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [
+    "html",
+    "css", 
+    "Portfolio",
+  ],
+  "author": "Jamie Lin",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "11.2.0"
+  }
+}
